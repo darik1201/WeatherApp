@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+
+# Environment variables
+.env
+
+# PyQt5 specific files
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# Redis
+*.rdb
+*.aof
+
+# IDEs and editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Other
+*.egg-info/
+dist/
+build/
